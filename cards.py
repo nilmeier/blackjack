@@ -4,6 +4,8 @@
 
 # Additional Functions added by J. Nilmeier
 
+
+
 class Card(object):
     """ A playing card. """
     ## List of Cards with String Values.

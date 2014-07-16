@@ -8,7 +8,6 @@
 
 from cards import *
 
-
 class Player(Hand):
     """ A (blackjack) player for a game. """
     def __init__(self,name,nchips):
